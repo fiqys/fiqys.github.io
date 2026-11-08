@@ -55,3 +55,10 @@ body {
     font-family: 'Roboto', sans-serif;
     margin-left: 20px;
 }
+
+.temp p {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20px;
+    color: #E6B566;
+}
